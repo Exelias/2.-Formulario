@@ -1,6 +1,8 @@
 
 
 # Practica 02. Formulario
+## Instrucciones
+ ### Para poder ejecutar este formulario bastaria con entrar a la carpeta html de este repositorio y ejecutar el archivo "index.html"
 ## Lenguajes de marcado
 
  ### Para poder hacer esta practice hize uso de HTML junto a CSS, e inclui iconos y algunas validaciones en las cajas de texto para su mejor presentacion.

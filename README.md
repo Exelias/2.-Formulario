@@ -5,7 +5,7 @@
  ### Para poder ejecutar este formulario bastaria con entrar a la carpeta html de este repositorio y ejecutar el archivo "index.html"
 ## Lenguajes de marcado
 
- ### Para poder hacer esta practice hize uso de HTML junto a CSS, e inclui iconos y algunas validaciones en las cajas de texto para su mejor presentacion.
+ ### Para poder hacer esta practica hice uso de HTML junto a CSS, e incluí iconos y algunas validaciones en las cajas de texto para su mejor presentacion.
  
 ## Head
 ![Header](iconos/Header.PNG)

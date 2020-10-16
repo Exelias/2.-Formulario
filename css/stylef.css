@@ -1,0 +1,52 @@
+.Encabezado {
+    width: 30%;
+    margin: 17px auto;
+    padding: 20px 10px;
+    background-color: #344b58;
+    border-radius: 7px;
+}
+
+.TitleForm {
+    text-align: center;
+}
+
+body,
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #f1f1f1;
+    color: black;
+}
+
+.Header h2 {
+    color: white;
+    background: #344b58;
+}
+
+.iconos_left_skill {
+    margin-right: auto;
+    width: 6%;
+}
+
+.footer h2,
+.Header {
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: #344b58;
+}
+
+
+.form_central {
+    width: 85%;
+
+    background-color: #ffffff;
+    padding: 15px 40px;
+    border-radius: 7px;
+    margin-top: 40px;
+}
+
+.informacion {
+    background-color: #1b1c1e;
+    padding: 15px;
+
+}
